@@ -100,6 +100,19 @@ comparison of meter gauges and ultrasonic sensors:
 ![image](https://github.com/Azhar14/Banjir/assets/43295093/9fa85af9-408c-43fe-9a00-48ccba74638b)
 
 
+Sorry I haven't been able to make this project, because the STM32 and the RW007 
+Wifi Module are new things for me, plus the limited documentation and video 
+tutorials for using RT-Thread Studio I'm having a lot of trouble. But I have made a 
+prototype with other components, namely ESP32 equipped with several sensors 
+such as Ultrasonic, Flow Rate, and GPS.Thank You has provided a great 
+opportunity me, I am optimistic that I will learn more about RT-Thread Studio 
+and the Internet Of Things features in it. Here is the documentation of the prototype 
+that I have made.
+
+![imageeee](https://github.com/Azhar14/Banjir/assets/43295093/3e9f49c2-7e04-4101-96db-2251bfeff624)
+
+I'm stuck in this section, and I'm confused about the next step:)
+
 
 
 
